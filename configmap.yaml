@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+ name: first-cm
+data:
+ DB-PORT: "3306"
+ username: "rushi"
